@@ -2,7 +2,8 @@
   <h1>Hello there 👋</h1>
 </div>
 <div align="center">
-  I am a computer science student currently working towards my bachelor's degree.
+  I am a computer science student currently working towards my master's degree.
+  <p>Interested in programming languages, compilers, logic and program verification.</p>
 </div>
 
 
@@ -55,10 +56,10 @@
     <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
   </a>
   <a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x">
-    <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   </a>
-  <a href="https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1070-ti/">
-    <img src="https://img.shields.io/badge/NVIDIA-GTX_1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <a href="https://www.amd.com/de/products/graphics/amd-radeon-rx-6800">
+    <img src="https://img.shields.io/badge/Radeon_RX_6800-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   </a>
 </div>
 
