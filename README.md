@@ -52,8 +52,8 @@
   <h1>My System 🖥️</h1>
 </div>
 <div align="center">
-  <a href="https://manjaro.org/">
-    <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x">
     <img src="https://img.shields.io/badge/Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
